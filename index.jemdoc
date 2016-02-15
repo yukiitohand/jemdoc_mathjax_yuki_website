@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}, addcss{example.css}
+= Yuki Itoh's website
+
+~~~
+{}{img_left}{Yukiitoh.jpg}{Yuki Itoh}{140px}
+== Yuki Itoh\n
+Ph.D. candidate\n
+Remote Hyperspectral Observer (RHO) Group\n
+Electrical and computer engineering\n
+University of Massachusetts Amherst\n
+~~~
+
+== Research Interest
+I am interested in hyperspectral image processing, spectroscopy, and their theoretical aspects, which includes non-negative signal recovery and non-negative sparse modelling. 
+
+== Contact
+Knowles Engineering Building \#210 \n
+151 Holdsworth Way\n
+University of Massachusetts\n
+Amherst, MA 01002,\n
+U.S.A.\n
+E-mail: $yitoh$$@$$umass.edu$
+
+== Education
+M.Sc. Aeronautics and astronautics, University of Tokyo, 2013.\n
+B.Sc. Aeronautics and astronautics, University of Tokyo, 2011.
+
+== Professional Activities
+Student member of 
+- IEEE
+- IEEE Geoscience and Remote Sensing Society
+- IEEE Signal Processing Society
+
+Official reviwer of
+- IEEE Journal of Selected Topics in Applied Remote Sensing
+- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Geoscience and Remote Sensing Letters
+- International Journal of Remote Sensing
+- Signal Processing
