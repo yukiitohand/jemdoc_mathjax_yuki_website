@@ -7,14 +7,15 @@ table#tlayout {
 }
 
 body {
-	background: white;
+	color: #151515;
+	background: #fcfcfc;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
 
 #layout-menu {
-	background: #f6f6f6;
+	background: #ecf8f2;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
@@ -36,7 +37,7 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
-    background: white;
+    background: #fcfcfc;
     text-align: left;
     vertical-align: top;
 }
@@ -65,11 +66,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #022b6d;
+	color: #1f613e;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #527bbd;
+	color: #339966;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -92,7 +93,7 @@ div.menu-item {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	border-bottom: 3px double gray;
+	border-bottom: 3px double #184e31;
 }
 
 /* Reduce space if we begin the page with a title. */
@@ -117,13 +118,13 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #339966;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
 	line-height: 1.0;
 	padding-top: 0.5em;
-	border-bottom: 1px solid #aaaaaa;
+	border-bottom: 1px solid #184e31;
 }
 
 h1 {
