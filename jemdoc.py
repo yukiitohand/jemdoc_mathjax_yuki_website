@@ -1,1 +1,0 @@
-../jemdoc_mathjax/www/dist/jemdoc.py
