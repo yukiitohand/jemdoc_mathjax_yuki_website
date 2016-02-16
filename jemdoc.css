@@ -11,7 +11,9 @@ body {
 	background: #fcfcfc;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
-	margin: 0;
+	margin: auto;
+	width: 980px;
+	min-width: 980px;
 }
 
 #layout-menu {
@@ -25,6 +27,7 @@ body {
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
+	width: 120px;
 }
 
 #layout-menu td {
@@ -40,6 +43,8 @@ body {
     background: #fcfcfc;
     text-align: left;
     vertical-align: top;
+	width: 830px;
+	min-width: 830px;
 }
 
 #layout-menu a {
@@ -57,7 +62,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+	color: #339966;
 	text-decoration: none;
 }
 
