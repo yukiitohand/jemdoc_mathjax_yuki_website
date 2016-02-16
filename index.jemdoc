@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, addcss{example.css}
+# jemdoc: menu{MENU}{index.html},
 = Yuki Itoh's website
 
 ~~~

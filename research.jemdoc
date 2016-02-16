@@ -1,4 +1,8 @@
-# jemdoc: menu{MENU}{research.html}, addcss{example.css}
+# jemdoc: menu{MENU}{research.html}
 = Yuki Itoh -- Research
 
-Sorry still under construction.
+== Hyperspectral Unmixing
+Under construction.
+
+== Non-negative sparse modelling
+Under construction.
