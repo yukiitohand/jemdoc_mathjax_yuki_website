@@ -1,11 +1,30 @@
 # jemdoc: menu{MENU}{publications.html}
 = Yuki Itoh -- Publications
 
+== 2016
+=== Papers
+: {*Non-linear semisupervised hyperspectral unmixing via semantic spectral representation*}
+   Yuki Itoh, Siwei Feng, Marco F. Duarte, and Mario Parente, submitted to /IEEE Trans. Geosci. Remote Sens./
+
+: {*Hyperspectral Band Selection from Statistical Wavelet Models*}
+   Siwei Feng, Yuki Itoh, Marco F. Duarte, and Mario Parente, submitted.
+
+: {*Wavelet-based semantic features for hyperspectral signature discrimination*}
+   Siwei Feng, Yuki Itoh, Marco F. Duarte, and Mario Parente, submitted.
+
+=== Conferences
+: {*Band Selection from Statistical Wavelet Models*}
+   Siwei Feng, Yuki Itoh, Marco F. Duarte, and Mario Parente, /IEEE 8th GRS Work. Hyperspectral Image Signal Process. Evolution in Remote Sens. (WHISPERS)/, Aug. 2016, Los Angels, CA.
+
+: {*On the performance of sparse unmixing on non-linear mixtures*}
+   Yuki Itoh and Mario Parente, /IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)/, July 2016, Beijing, China.
+
 == 2015
 === Papers
-: {*Perfect recovery conditions for non-negative sparse modelling*}
+: {*Perfect recovery conditions for non-negative sparse modeling*}
    Yuki Itoh, Marco F. Duarte, and Mario Parente, /arXiv Preprint/, arXiv:1512.02743, Dec. 2015.
-   [http://arxiv.org/abs/1512.02743 \[link\]]
+   [http://arxiv.org/abs/1512.02743 \[link\]] 
+   *(2016.08) accepted to /IEEE Trans. Signal Process./*
    
 === Conferences
 : {*Performance guarantees for sparse regression-based unmixing*}
