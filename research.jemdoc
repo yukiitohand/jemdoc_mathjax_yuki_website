@@ -1,8 +1,36 @@
 # jemdoc: menu{MENU}{research.html}
 = Yuki Itoh -- Research
 
-== Hyperspectral Unmixing
-Under construction.
+== Current Projects
 
-== Non-negative sparse modelling
-Under construction.
+=== Denoising CRISM images
+~~~
+{}{raw}
+<table class="imgtable"><tr><td>
+<img src="denoisingcrismimage.png" alt="denoisingcrismimage" width="200px" />&nbsp;</td>
+<td>
+<img src="denoisingcrismspectra.png" alt="denoisingcrismspectra" width="200px" />&nbsp;</td></td></tr>
+</table>
+~~~
+We are developing a new method to enhance the quality of the reflectance signals acquired by Compact Reconnaissance Imaging Spectrometer for Mars (CRISM) to help scientists identify and map minerals on Mars. Our focus covers not only denoising, but also improving atmospheric compensation and calibration.
+\n
+: {*Related publications*}
+  . Yuki Itoh and Mario Parente, "Image-derived atmospheric transmission for enhancement of CRISM volcano scan correction," in /the 48th Lunar and Planetary Science Conference (LPSC)/, The Woodlands, TX, Mar. 2017, Abstract no. 2939. [https://www.hou.usra.edu/meetings/lpsc2017/pdf/2939.pdf \[link\]]
+\n\n
+
+=== Sparse unmixing of hyperspectral data
+Sparse unmixing is one of the promising methods for analyzing hyperspectral images. We are working on improving the reliability of resulting mineral maps in the realistic scenario where the spectral signals seems to have distortions from a linear model.
+
+: {*Related publications*}
+  . Yuki Itoh and Mario Parente, “Sparse unmixing with adaptive background,” in /IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)/, July 2017, Fortworth, TX (invited).
+
+
+== Past Projects
+
+=== Theoretical aspects of nonnegative sparse modeling
+We pursued conditions for which nonnegative sparse modeling (NSM), particularly nonnegative lasso, succeeds in retrieving correct atoms.
+
+: {*Related publications*}
+  . Yuki Itoh and Mario Parente, “On the performance of sparse unmixing on non-linear mixtures,” in /IEEE Int. Geosci. Remote Sens. Symp. (IGARSS)/, July 2016, Beijing, China. [http://ieeexplore.ieee.org/document/7730836/ \[link\]]
+  . Yuki Itoh, Marco F. Duarte, and Mario Parente, “Perfect recovery conditions for non-negative sparse modeling,” in /IEEE. Trans. Signal Process./, vol. 65, no. 1, pp. 69-80, Jan. 2017. [http://ieeexplore.ieee.org/document/7575716/ \[link\]]
+  . Yuki Itoh, Marco F. Duarte, and Mario Parente, “Performance guarantees for sparse regression-based unmixing,” in /IEEE 7th GRSS Work. Hyperspectral Image Signal Process. Evolution in Remote Sens. (WHISPERS)/, June 2015, Tokyo, Japan. [http://www.ecs.umass.edu/~mduarte/images/PGSRBU-WHISPERS15.pdf \[pdf\]]
